@@ -1,2 +1,3 @@
 # hello-world
 My first repository in GitHub, built during my first course in data science. Woo fun...
+I really have no idea what I'm doing, and frankly, wonder if any of this will do me any good.
